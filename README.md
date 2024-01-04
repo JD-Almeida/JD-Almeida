@@ -9,7 +9,7 @@ I'm half Portuguese, half English and passionate about making stuff work.
 * 🌍  I'm based in Sheffield
 * ✉️  You can contact me at [jacquesalmeida2003@gmail.com](mailto:jacquesalmeida2003@gmail.com)
 * 🚀  I'm currently working on [AP Assignments](http://github.com/JD-Almeida/Fake-File-System)
-* 🧠  I'm learning Web-Based Content
+* 🧠  I'll be working as a Web Engineer on Placement this year
 
 ### Skills
 
