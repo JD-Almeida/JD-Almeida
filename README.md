@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I'm half Portuguese, half English and passionate about making stuff work.
+I'm half Portuguese, half English who loves seeing cogs turn and making literally everything automated.
 
 * 🌍  I'm based in Sheffield
 * ✉️  You can contact me at [jacquesalmeida2003@gmail.com](mailto:jacquesalmeida2003@gmail.com)
