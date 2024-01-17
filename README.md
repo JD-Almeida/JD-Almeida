@@ -4,9 +4,10 @@ Jacques Dalton-Almeida
 Computer Science Student
 ------------------------
 
-I'm half Portuguese, half English who loves seeing cogs turn and making literally everything automated.
+Hello there! I'm unsure as to how you came across this account, but welcome!
+My name is Jacques, but I go by Jax to most. I'm a half Portuguese, half English who loves seeing cogs turn and making literally everything automated. 
 
-* 🌍  I'm based in Sheffield
+* 🌍  I'm based in Sheffield, England
 * ✉️  You can contact me at [jacquesalmeida2003@gmail.com](mailto:jacquesalmeida2003@gmail.com)
 * 🚀  I'm currently working on [AP Assignments](http://github.com/JD-Almeida/Fake-File-System)
 * 🧠  I'll be working as a Web Engineer on Placement this year
