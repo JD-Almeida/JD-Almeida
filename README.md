@@ -9,7 +9,7 @@ My name is Jacques, but I go by Jax to most. I'm a half Portuguese, half English
 
 * 🌍  I'm based in Sheffield, England
 * ✉️  You can contact me at [jacquesalmeida2003@gmail.com](mailto:jacquesalmeida2003@gmail.com)
-* 🚀  I'm currently working on [AP Assignments](http://github.com/JD-Almeida/Fake-File-System)
+* 🚀  I'm currently working on JS Projects
 * 🧠  I'll be working as a Web Engineer on Placement this year
 
 ### Skills
