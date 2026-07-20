@@ -9,4 +9,4 @@ My name is Jacques, but I go by Jax to most. I'm a half Portuguese, half English
 
 * 🌍  I'm based in Sheffield, England
 * ✉️  You can contact me at [jacquesalmeida2003@gmail.com](mailto:jacquesalmeida2003@gmail.com)
-* 🚀  I'm currently in my final year at Sheffield Hallam University.
+* 🚀  I'm currently working as a Product Analyst at ILG.
