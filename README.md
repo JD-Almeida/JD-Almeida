@@ -1,7 +1,7 @@
 Jacques Dalton-Almeida
 ==============================================================================================================================================
 
-Computer Science Student
+Product Analyst, Ex Software Engineer
 ------------------------
 
 Hello there! I'm unsure as to how you came across this account, but welcome!
